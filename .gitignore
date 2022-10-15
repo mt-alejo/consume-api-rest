@@ -210,3 +210,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,node,visualstudiocode
 
 node_modules
+package.json
+package-lock.json
